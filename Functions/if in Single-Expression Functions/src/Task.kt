@@ -1,0 +1,3 @@
+// TODO: Напишіть single-expression функцію minOf за допомогою = if (...) ... else ...
+
+fun minOf(a: Int, b: Int) = if (a < b) a else b
